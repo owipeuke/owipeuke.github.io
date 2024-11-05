@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owipeuke.github.io/COv/sitemap_index.txt
+Sitemap: https://owipeuke.github.io/YwT/sitemap_index.txt
+Sitemap: https://owipeuke.github.io/aEt/sitemap_index.txt
+Sitemap: https://owipeuke.github.io/raG/sitemap_index.txt
